@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>datascience blog for distill</title>
+    <link>https://github.com/datascienceblog</link>
+    <atom:link href="https://github.com/datascienceblog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>datascience blog for distill
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to datascienceblog by distill</title>
+      <dc:creator>D Ku</dc:creator>
+      <link>https://github.com/datascienceblog/posts/2020-03-27-welcome-to-datascienceblog-by-distill</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/datascienceblog/posts/2020-03-27-welcome-to-datascienceblog-by-distill</guid>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
